@@ -1,4 +1,9 @@
 Arduino_Yun
 ===========
 
-Code for Arduino Yùn
+Code exemple pour Arduino Yùn
+
+More informations :
+
+- http://arduino.cc/en/Main/ArduinoBoardYun
+- http://anderson69s.com/2014/12/21/arduino-yun/
